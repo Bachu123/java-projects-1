@@ -23,5 +23,4 @@ Its a GUI Based Desktop Application Fully Equiped with User Intraction and Take 
 GUI - JAVA Swing
 
 Follow Me - 
-Instagram - itsexceptional
-Linkedin - Simranjeet Singh
+Linkedin - Mubashir Buhari
